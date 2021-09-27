@@ -1,0 +1,32 @@
+.button-1{
+margin-right:  20px; 
+}
+
+.button-2{
+    margin-right:  20px;
+}
+
+.link-signup{
+margin-left: 30px;
+padding-right: 10px;
+margin-top: 10px;
+color: white; 
+}  
+
+.hide-text-2{
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 100px;
+    background-color: rgb(29, 23, 15);
+}
+
+.hide-text{
+    margin-top: 20px;
+    background-color: rgb(29, 13, 29);
+    height: 100px;
+}
+
+button{
+    background-color: #1C2230;
+    color: white;
+}

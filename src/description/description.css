@@ -1,0 +1,13 @@
+.desc-text{ text-align: center; margin-top: 80px; font-size: 20px; }
+
+#button-started{ width: 200px; height: 50px; background-color: #8BD6DD;}
+
+#grid{ display: grid; grid-template-columns: 1fr  1fr }
+
+.security-image{ width: 50px; margin-left: 200px; display: block; margin-top: 50px; }
+
+.files-desc{ margin: auto; margin-top: 50px;}
+
+#image-files{ width: 80px; margin-left: 180px; }
+
+#text-file{ text-align: center }
