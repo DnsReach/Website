@@ -1,15 +1,27 @@
-body{ background-color: #1C2230; color: white; }
+body {
+  background-color: #1c2230;
+  color: white;
+}
 
-.image-logo{ width: 150px; }
+.image-logo {
+  width: 150px;
+}
 
-#flex-bar{ display: flex; flex-wrap: wrap; width: 1350px;}
+#flex-bar {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position: fixed;
+  background-color: #1c2230;
+  top: -10px;
+}
 
-.bar-title-features{
-    justify-content: space-between;
-    margin: auto;
-    margin-top: 20px;
-    margin-right: 50px;
-    display: flex;
-    width: 400px;
-    height: 30px;
+.bar-title-features {
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 20px;
+  margin-right: 50px;
+  display: flex;
+  width: 400px;
+  height: 30px;
 }
